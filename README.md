@@ -20,5 +20,5 @@ Search for students by name, roll number, or course.
 Apply filters to view data for specific classes, batches, or criteria.
 Data Persistence
 
-Use a SQLite database or CSV files to store and retrieve student records.
+Use a MySql database or CSV files to store and retrieve student records.
 Ensure data integrity and secure storage.
